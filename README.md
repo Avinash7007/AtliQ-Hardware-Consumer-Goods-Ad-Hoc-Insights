@@ -13,7 +13,7 @@ Database was provided to me to work on and it includes six main tables:
 
 dim_customer: contains customer-related data dim_product: contains product-related data fact_gross_price: contains gross price information for each product 
 
-#fact_manufacturing_cost: contains the cost incurred in the production of each product fact_pre_invoice_deductions: contains pre-invoice deductions information for each
+fact_manufacturing_cost: contains the cost incurred in the production of each product fact_pre_invoice_deductions: contains pre-invoice deductions information for each
 
 product fact_sales_monthly: contains monthly sales data for each product. Here is the Data Model that I have created in Power BI for the Visualization part:
 
